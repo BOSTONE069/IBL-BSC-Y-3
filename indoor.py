@@ -14,3 +14,4 @@ print(lowercase_str2)
 
 #converting string to upper case
 print(lowercase_str2.upper())
+
