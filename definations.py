@@ -2,16 +2,18 @@
 #y = int(input("Enter the value of y "))
 
 # function for addition
-#def addition():
- # print(x + y)
+# def addition():
+# print(x + y)
 
-#addition()
+# addition()
 
 
-#working with strings
+# working with strings
 name = input("What is your name? ").strip()
 
-def hello(z = "WORLD"):
-  print("hello,", z)
+
+def hello(z="WORLD"):
+    print("hello,", z)
+
 
 hello(name)
